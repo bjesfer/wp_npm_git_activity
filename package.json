@@ -1,0 +1,11 @@
+{
+  "name": "npm_git_activity_jesfer_babao",
+  "version": "1.0.0",
+  "description": "NPM and GIT activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesfer Babao",
+  "license": "ISC"
+}
